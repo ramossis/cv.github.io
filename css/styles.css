@@ -153,12 +153,13 @@ overflow: hidden;
     margin-bottom: 15px;
 }
 .knowledge__picture{
+    text-align: center;
     max-width: 500px;
 
 }
 .knowledge__img{
-    width: 100%;
-    display: block;
+    width: 70%;
+    border-radius: 15px;
 }
 
 .price{
